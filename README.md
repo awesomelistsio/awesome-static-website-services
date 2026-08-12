@@ -35,6 +35,7 @@ Static websites are fast, secure, and easy to maintain. This list includes servi
 - [Render](https://render.com/) – Modern static site hosting and backend services.
 - [Firebase Hosting](https://firebase.google.com/products/hosting) – Google-backed static site hosting with CDN.
 - [GitLab Pages](https://docs.gitlab.com/ee/user/project/pages/) – Static site hosting from GitLab repositories.
+- [harvis.dev](https://harvis.dev/) – Zero-setup static hosting; deploy via CLI, drag-and-drop, HTTP API, or MCP, with built-in form handling.
 
 ## CMS for Static Sites
 
