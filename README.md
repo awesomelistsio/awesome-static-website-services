@@ -1,4 +1,4 @@
-# Awesome Static Website Services [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Static Website Services [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -105,10 +105,10 @@ Static websites are fast, secure, and easy to maintain. This list includes servi
 
 ## Related Awesome Lists
 
-- [Awesome JAMstack](https://github.com/awesomelistsio/awesome-jamstack)
-- [Awesome Headless CMS](https://github.com/awesomelistsio/awesome-headless-cms)
-- [Awesome CMS](https://github.com/awesomelistsio/awesome-cms)
-- [Awesome GitHub Pages](https://github.com/awesomelistsio/awesome-github-pages)
+- [Awesome JAMstack](https://github.com/brandonhimpfen/awesome-jamstack)
+- [Awesome Headless CMS](https://github.com/brandonhimpfen/awesome-headless-cms)
+- [Awesome CMS](https://github.com/brandonhimpfen/awesome-cms)
+- [Awesome GitHub Pages](https://github.com/brandonhimpfen/awesome-github-pages)
   
 ## Contribute
 
